@@ -3,4 +3,4 @@
 	url = https://github.com/rileycalhoun/frogbot-backend
 [submodule "dashboard"]
 	path = frontend
-	url = https://github.com/rileycalhoun/frogbot-dashboard
+	url = https://github.com/rileycalhoun/frogbot-frontend
