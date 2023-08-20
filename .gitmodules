@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
+[submodule "frogbot-backend"]
+	path = frogbot-backend
 	url = https://github.com/rileycalhoun/frogbot-backend
-[submodule "frontend"]
-	path = frontend
+[submodule "frogbot-dashboard"]
+	path = frogbot-dashboard
 	url = https://github.com/rileycalhoun/frogbot-dashboard
