@@ -19,19 +19,41 @@
 ### Requirements
 - Git
 - Docker
+- A Supabase account
+- A MongoDB database
 
 ### If you want to self host FrogBot, you can do so by following these steps:
-1. Clone the repository & cd into it
+1. Clone the repository and cd into it
 ```bash
 git clone https://github.com/rileycalhoun/frogbot && cd frogbot
+``` 
+
+3. CD into the frontend directory and copy the .env.example file to .env
+```bash
+cd frontend && cp .env.example .env
 ```
 
-2. Build the docker image
+4. Edit the .env file and edit the necessary variables (nano or your favorite text editor will work)
+```bash
+nano .env
+```
+
+5. CD into the backend directory and copy the .env.example file to .env
+```bash
+cd ../backend && cp .env.example .env
+```
+
+6. Edit the .env file and edit the necessary variables (nano or your favorite text editor will work)
+```bash
+nano .env
+```
+
+7. Build the docker image
 ```bash
 docker-compose build --no-cache
 ```
 
-3. Use docker-compose to start the container
+8. Use docker-compose to start the container
 ```bash
 docker-compose up -d
 ```
