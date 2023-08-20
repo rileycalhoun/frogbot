@@ -1,7 +1,7 @@
 [guilds]: 10
 
 # Frog Bot
-### An open source Discord bot that sends an image of a frog every day at the same time.
+### A Discord bot that sends an image of a frog every day at the same time.
 
 [![Invite Frog Bot](https://img.shields.io/badge/Invite%20Frog%20Bot-Click%20Me-blue?style=for-the-badge)](https://discord.com/oauth2/authorize/?permissions=67144704&scope=bot&client_id=1058149602609598564)
 
