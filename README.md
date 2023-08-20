@@ -1,5 +1,3 @@
-[guilds]: 10
-
 # Frog Bot
 ### A Discord bot that sends an image of a frog every day at the same time.
 
