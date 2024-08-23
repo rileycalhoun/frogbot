@@ -3,5 +3,5 @@
 
 # Will be attempting to completely revamp this project over the course of a month or so.
 ## Goals:
-* Rewrite the backend in Rust
+* Rewrite the backend in Rust (in progress)
 * Rewrite the frontend in Go + htmx
